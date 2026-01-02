@@ -1,0 +1,6 @@
+% Intentionally empty.
+% This project uses an explicit `thebibliography` environment in
+% `0-0-0-gravity-submission-aaa-v07-shorted-v04.tex`. Some TeX toolchains
+% still attempt to input `\jobname.bbl`; providing an empty file avoids the
+% "No file ... .bbl" warning without changing the manuscript content.
+
